@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890820945600",
+    "project_id": "formationmobile-9b67a",
+    "storage_bucket": "formationmobile-9b67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890820945600:android:3dc7f464cec12b7af2ef25",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ypoZAIN3eXuZL2sy42zNwV3ZIn8M0b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
